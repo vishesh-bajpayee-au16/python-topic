@@ -23,4 +23,3 @@ class Student(Person):
         return self.marks
 
 student1 = Student("vishu","bajpayee",22,123,99)
-print(student1.marks())

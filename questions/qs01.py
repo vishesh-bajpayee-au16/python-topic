@@ -25,5 +25,5 @@ def ans(finalArr):
 
 arr1 = sumArr(T)
 arr2 = finalArr(arr1)
-ans(arr2)
+ans(arr2)   
 
